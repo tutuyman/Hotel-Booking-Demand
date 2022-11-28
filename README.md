@@ -1,2 +1,2 @@
-# Hotel-Booking-Demang
+# Hotel-Booking-Demand
 capstone 3
